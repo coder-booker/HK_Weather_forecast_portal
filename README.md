@@ -1,4 +1,4 @@
-## A portal webpage that collects data that displays weather information of the user's location ##
+## A portal webpage that collects data to display weather information of the user's location ##
 * Can only be used in Hong Kong and with internet connection. 
 * Collect weather data from public API. 
 * Require location information authorisation to display information based on users' location.
