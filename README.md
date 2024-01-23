@@ -2,7 +2,7 @@
 * Can only be used in Hong Kong and with internet connection. 
 * Collect weather data from public API. 
 * Require location information authorisation to display information based on users' location.
-* Display the Weather, Temperature, Humidity, Rainfall。 
+* Display the Weather, Temperature, Humidity, Rainfall, etc.  
 * Supports the function of viewing weather information of other regions。 
 * Responsive Design. 
 * UI design varies with weather condition and time.
